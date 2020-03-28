@@ -1,0 +1,2 @@
+rabbitmq : http://192.168.99.100:15672/#/users/tadapp
+kong :http://192.168.99.100:8899/#/routes

@@ -1,0 +1,38 @@
+.hauntedProject {
+  background-color: #303f42 !important;
+  color: #a7dbe5 !important;
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+  padding: 1%;
+  min-height: 100vh;
+}
+.hauntedProject  list-monster {
+  padding: 1% 1% 0% 1%;
+  color: #a7dbe5 !important;
+}
+.hauntedProject tr,.hauntedProject td {
+  color: #a7dbe5 !important;
+}
+.hauntedBody h1 {
+  margin: 0%;
+  background-color: #000;
+  padding: 0.5rem 1rem 1rem 1rem;
+  text-align: center;
+  color: rgba(255, 69, 0, 0.76);
+}
+.hauntedProject h3 {
+  text-align: center;
+  color: rgba(255, 69, 0, 0.76);
+}
+
+
+.hauntedProject > button {
+  border-radius: 25px ;
+  border: 1px solid #a7dbe5;
+  background-color: #303f42 ;
+  padding: 1%;
+  width: 100%;
+}
+.hauntedProject .custmBack {
+  background-color:  red !important;
+}

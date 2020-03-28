@@ -1,0 +1,22 @@
+.Orders {
+    margin: 1%;
+}
+.sideBarForm {
+    color: #333333!important;
+    border-right: solid 1px;
+    float: left;
+    width: 25%;
+    margin-right: 1%;
+
+}
+.sideBarForm  label {
+    color: #333333;
+}
+.tableOrders {
+    display: inline-block;
+    width: 74%;
+}
+.tableOrders OrdersTable {
+    display: block;
+    width: 100%;
+}
